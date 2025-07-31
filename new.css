@@ -56,15 +56,15 @@ canvas {
 }
 
 .text {
-  font-size: 130%;
+  font-size: 105%;
   margin-bottom: 10%;
   width: 60%;
   height: 80%;
   justify-content: center;
   color: white;
   margin-left: 20%;
-  font-family: cursive;
-  font-weight: 900;
+  font-family: "Playwrite AU QLD", cursive;
+  font-weight: bold;
 }
 h3 {
   position: absolute;
